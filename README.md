@@ -1,4 +1,4 @@
-# Hi there, I'm Koushik 👋
+# Hi there, I'm Kushwanth Kumar 👋
 
 💻 **MERN Full Stack Developer** | Passionate about building modern, scalable web applications.  
 🌱 Currently exploring advanced MERN stack concepts, cloud deployment, and API integrations.  
