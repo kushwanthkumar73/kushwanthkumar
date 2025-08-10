@@ -1,8 +1,8 @@
 # Hi there, I'm Kushwanth Kumar 👋
 
-💻 **MERN Full Stack Developer** | Passionate about building modern, scalable web applications.  
-🌱 Currently exploring advanced MERN stack concepts, cloud deployment, and API integrations.  
-🚀 Goal: Create impactful projects, contribute to open-source, and share my learning journey.  
+💻 **MERN Full Stack Developer** | Passionate about building modern, scalable web applications  
+🌱 Currently exploring advanced MERN stack concepts, cloud deployment, and API integrations  
+🚀 **Goal:** Create impactful projects, contribute to open-source, and share my learning journey  
 
 ---
 
@@ -14,12 +14,15 @@
 
 ---
 
-## 📈 GitHub Stats
-![Kushwanth Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushwanthkumar73&show_icons=true&theme=radical)
+## 📊 GitHub Stats & Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushwanthkumar73&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushwanthkumar73&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kushwanthkumar73&theme=radical)
 
 ---
 
 ## 📫 Connect with me
-- [GitHub Profile](https://github.com/kushwanthkumar73)
-- Email: *kushwanth2001@gmail.com*
-- LinkedIn: (www.linkedin.com/in/kushwanth-kumar-9b0710204)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kushwanthkumar73)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushwanth-kumar-9b0710204)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushwanth2001@gmail.com)
+
