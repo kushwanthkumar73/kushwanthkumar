@@ -15,11 +15,11 @@
 ---
 
 ## 📈 GitHub Stats
-![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushikkumar73&show_icons=true&theme=radical)
+![Kushwanth Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushwanthkumar73&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect with me
-- [GitHub Profile](https://github.com/koushikkumar73)
+- [GitHub Profile](https://github.com/kushwanthkumar73)
 - Email: *kushwanth2001@gmail.com*
 - LinkedIn: (www.linkedin.com/in/kushwanth-kumar-9b0710204)
